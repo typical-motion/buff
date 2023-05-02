@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: sagitari_debug
+Description: Description of sagitari_debug
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
